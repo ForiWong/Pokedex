@@ -44,6 +44,7 @@
       android:name=".ui.details.DetailActivity"
       android:launchMode="singleTop" />
 
+    <!-- todo AppStartup的使用-->
     <provider
       android:name="androidx.startup.InitializationProvider"
       android:authorities="com.skydoves.pokedex.androidx-startup"

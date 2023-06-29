@@ -27,6 +27,7 @@ import androidx.test.uiautomator.Until
 import org.junit.Rule
 import org.junit.Test
 
+//todo 看不懂这个模块benchmark
 /**
  * Generates a baseline profile which can be copied to `app/src/main/baseline-prof.txt`.
  */

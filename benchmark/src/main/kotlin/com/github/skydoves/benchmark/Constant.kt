@@ -16,4 +16,5 @@
 
 package com.github.skydoves.benchmark
 
+//internal修饰常量表示该常量对于同一模块内的代码可见，但对于模块外部的代码是不可见的。
 internal const val packageName: String = "com.skydoves.pokedex"

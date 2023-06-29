@@ -1,5 +1,6 @@
 package com.skydoves.pokedex
 
+//编译目标版本、发布版本，单独放这里？？！
 object Configuration {
   const val compileSdk = 33
   const val targetSdk = 33
